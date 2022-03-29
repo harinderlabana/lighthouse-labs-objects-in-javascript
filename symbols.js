@@ -40,4 +40,3 @@ console.log('objWithSymbols', typeof objWithSymbols, objWithSymbols);
 objWithSymbols.age = 42; // Happy birthday!
 objWithSymbols['age'] = 43; // Oh no, two birthdays so soon!
 console.log('objWithSymbols', typeof objWithSymbols, objWithSymbols);
-
