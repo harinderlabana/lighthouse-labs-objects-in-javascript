@@ -2,7 +2,7 @@
 
 [GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-objects-in-javascript/tree/2022.03.29-web-flex-mar-21-day-objects-in-javascript) | [Vimeo Video](#)
 
-- [ ] Introduction
+- [X] Introduction
 - [ ] JavaScript Primitives and Data-Types
 - [ ] JavaScript Object Fundamentals
 
