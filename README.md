@@ -1,5 +1,7 @@
 # Lighthouse Labs | Objects in JavaScript
 
+2022.03.29 | Web Flex March 21, 2022 Day Labbers
+
 [GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-objects-in-javascript/tree/2022.03.29-web-flex-mar-21-day-objects-in-javascript) | [Vimeo Video](https://vimeo.com/693715917/4d9d84db17)
 
 - [X] Introduction
