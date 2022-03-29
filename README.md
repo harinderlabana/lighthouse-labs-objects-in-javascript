@@ -22,3 +22,5 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
     - Ask questions, don't be afraid to speak up!
     - The sooner you ask, the more it will be related to what's being taught in the moment.
     - Zoom has a text chat and a "raise your hand" feature, if you feel it is a moment where you may otherwise be interrupting.
+- Lectures are recorded.
+    - If you want to review something, or take extra notes, feel free to watch the recording at your leisure.
