@@ -28,3 +28,10 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 - [x] null
 - [x] Boolean
 - [x] Strings
+- [x] Numbers (Integers, Floats, NaN, Infinity, BigInt)
+- [x] Symbol
+
+## Objects
+
+- [x] Array
+- [ ] Basic JavaScript Objects
