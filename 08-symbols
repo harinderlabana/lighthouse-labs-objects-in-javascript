@@ -1,0 +1,11 @@
+const mySymbol = Symbol('name');
+
+console.log('mySymbol:', typeof mySymbol, mySymbol);
+
+const myObj = {
+  [mySymbol]: 'Warren',
+};
+
+console.log('myObj:', typeof myObj, myObj);
+
+console.log('myObj name is...', myObj[mySymbol]);
