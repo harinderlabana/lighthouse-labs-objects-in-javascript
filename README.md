@@ -1,18 +1,12 @@
 # Lighthouse Labs | Objects in JavaScript
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-objects-in-javascript/tree/2022.03.29-web-flex-mar-21-day-objects-in-javascript) | [Vimeo Video](#)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-objects-in-javascript/tree/2022.05.24-web-flex-day-16may2022) | [Vimeo Video](#)
 
 - [ ] Introduction
 - [ ] JavaScript Primitives and Data-Types
 - [ ] JavaScript Object Fundamentals
 
-## Introduction
-
-### About the Instructor
-
-My name is Warren Uhrich, I'm a human person, instructor, and world-wide web developer hailing from Alberta, Canada!
-
-### Lighthouse Lab Lectures
+## Lighthouse Lab Lectures
 
 Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep in mind as you attend:
 - Spend most of your time listening and asking questions.
